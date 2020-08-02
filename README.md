@@ -1,2 +1,2 @@
 # car-configuration
-Segundo projeto de desenvolvimento de sistemas de software
+Second Software Systems Development project
