@@ -1,2 +1,2 @@
-# projeto-dss-2
+# car-configuration
 Segundo projeto de desenvolvimento de sistemas de software
